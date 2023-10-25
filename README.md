@@ -38,20 +38,20 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
-
+GIF created with **ScreenToGif**
+![]
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned about adapter, how to bind with API, RecyclerView.
+more details visit: https://guides.codepath.com/android/Using-the-RecyclerView
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Thy Nguyen**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
