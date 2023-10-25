@@ -39,11 +39,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 ![](https://github.com/CanhRauT/AND101_FruitRecycler_p6/blob/master/FruitRecycler_p6_AND101.gif)
 
 GIF created with **ScreenToGif**
-![](https://github.com/CanhRauT/AND101_FruitRecycler_p6/blob/master/FruitRecycler_p6_AND101.gif)
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 I learned about adapter, how to bind with API, RecyclerView.
