@@ -39,7 +39,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
-![]
+![](https://github.com/CanhRauT/AND101_FruitRecycler_p6/blob/master/FruitRecycler_p6_AND101.gif)
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
