@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![](https://github.com/CanhRauT/AND101_FruitStyle_p7/blob/master/FruitStyle_p7_AND101.gif)
+![](https://github.com/CanhRauT/AND101_FruitRecycler_p6/blob/master/FruitRecycler_p6_AND101.gif)
 
 GIF created with **ScreenToGif**
 
